@@ -1,0 +1,52 @@
+R version 4.3.2 (2023-10-31)
+Platform: x86_64-pc-linux-gnu (64-bit)
+Running under: Linux Mint 20.3
+
+Matrix products: default
+BLAS:   /usr/lib/x86_64-linux-gnu/blas/libblas.so.3.9.0 
+LAPACK: /usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3.9.0
+
+locale:
+ [1] LC_CTYPE=en_US.UTF-8       LC_NUMERIC=C               LC_TIME=en_US.UTF-8       
+ [4] LC_COLLATE=en_US.UTF-8     LC_MONETARY=en_US.UTF-8    LC_MESSAGES=en_US.UTF-8   
+ [7] LC_PAPER=en_US.UTF-8       LC_NAME=C                  LC_ADDRESS=C              
+[10] LC_TELEPHONE=C             LC_MEASUREMENT=en_US.UTF-8 LC_IDENTIFICATION=C       
+
+time zone: America/New_York
+tzcode source: system (glibc)
+
+attached base packages:
+[1] grid      stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] forestplot_3.1.3         abind_1.4-5              checkmate_2.3.1         
+ [4] howManyImputations_0.2.5 mice_3.16.0              lmerTest_3.1-3          
+ [7] lme4_1.1-35.3            Matrix_1.6-2             broom.mixed_0.2.9.5     
+[10] ggpubr_0.6.0             ggplot2_3.5.1            gt_0.10.1               
+[13] gtsummary_1.7.2          finalfit_1.0.7           stringr_1.5.1           
+[16] dplyr_1.1.4             
+
+loaded via a namespace (and not attached):
+ [1] gtable_0.3.5         shape_1.4.6.1        xfun_0.44           
+ [4] rstatix_0.7.2        insight_0.19.11      lattice_0.22-6      
+ [7] numDeriv_2016.8-1.1  vctrs_0.6.5          tools_4.3.2         
+[10] generics_0.1.3       parallel_4.3.2       tibble_3.2.1        
+[13] fansi_1.0.6          pan_1.9              pkgconfig_2.0.3     
+[16] jomo_2.7-6           lifecycle_1.0.4      compiler_4.3.2      
+[19] munsell_0.5.1        codetools_0.2-20     carData_3.0-5       
+[22] htmltools_0.5.8.1    glmnet_4.1-8         furrr_0.3.1         
+[25] pillar_1.9.0         car_3.1-2            nloptr_2.0.3        
+[28] tidyr_1.3.1          MASS_7.3-60          broom.helpers_1.15.0
+[31] iterators_1.0.14     rpart_4.1.23         boot_1.3-30         
+[34] foreach_1.5.2        mitml_0.4-5          parallelly_1.37.1   
+[37] nlme_3.1-164         tidyselect_1.2.1     digest_0.6.35       
+[40] future_1.33.2        performance_0.11.0   stringi_1.8.4       
+[43] listenv_0.9.1        purrr_1.0.2          forcats_1.0.0       
+[46] splines_4.3.2        fastmap_1.2.0        colorspace_2.1-0    
+[49] cli_3.6.2            magrittr_2.0.3       survival_3.6-4      
+[52] utf8_1.2.4           broom_1.0.5          withr_3.0.0         
+[55] scales_1.3.0         backports_1.4.1      globals_0.16.3      
+[58] nnet_7.3-19          ggsignif_0.6.4       knitr_1.46          
+[61] rlang_1.1.3          Rcpp_1.0.12          glue_1.7.0          
+[64] xml2_1.3.6           rstudioapi_0.16.0    minqa_1.2.6         
+[67] R6_2.5.1            
