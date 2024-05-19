@@ -1,6 +1,6 @@
 # Firearms and Mental Health Providers
 
-Analysis of the relationship between deaths from firearms, rates of gun ownership, and the ratio of mental health providers to the local population.  This repository contains R scripts for the statistical analyses and the generation of pertinent tables and figures.  Code is in pre-publication finalization status as of 5/17/2024
+Analysis of the relationship between deaths from firearms, rates of gun ownership, and the ratio of mental health providers to the local population.  This repository contains R scripts for the statistical analyses and the generation of pertinent tables and figures.  Code is public, for manuscript review purposes, as of 18 May 2024.
 
 ## Locations
 
@@ -51,3 +51,9 @@ To generate sensitivity model coefficients only, run the following parts of scri
 - Part 5, lines to create `sensitivity.list`
 - Part 6 (helper functions)
 - Part 7 (batch run of models)
+
+## Authors
+
+- Kelly Corbett
+- Malcolm Schongalla
+- Erika Moen
